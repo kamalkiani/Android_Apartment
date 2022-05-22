@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+ font-family: 'irsans';
+ src: url('irsans.ttf');
+}
+
+#myP{
+	direction:rtl; 
+	text-align:right;
+}
+
+.abt{
+	font-family:'irsans',Tahoma, Arial;
+}
+
+.myImg{
+	width:60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;	
+}
+
+.myExam{
+	width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;	
+}
+h1, p, a {
+	font-family:'irsans',Tahoma, Arial;
+	text-align:justify;
+	line-height:1.7em;
+}
+.my-title{
+	color:#1BB31E;
+	font-weight:bold;	
+}
